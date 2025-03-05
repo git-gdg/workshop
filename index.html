@@ -416,8 +416,10 @@ cd workshop</code></pre>
             const loadingElement = document.getElementById('contributors-loading');
             
             try {
-                const response = await fetch('https://raw.githubusercontent.com/git-gdg/workshop/refs/heads/main/contributors.md');
-                
+                const response = await fetch('https://raw.githubusercontent.com/git-gdg/workshop/refs/heads/main/contributors.md', {
+                    cache: "no-store"
+                });
+
                 if (!response.ok) {
                     throw new Error(`Failed to load contributors: ${response.status} ${response.statusText}`);
                 }
