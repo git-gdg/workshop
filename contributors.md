@@ -1,7 +1,7 @@
 ## Contributors
 
-- [Amjad Alqasemi](https://github.com/aqasemi)
-- [Jazzar](https://github.com/jaazzar)
+- [Amjad Alqasemi 🗿](https://github.com/aqasemi)
+- [Jazzar 🫡](https://github.com/jaazzar)
 - [Abdoo Shareef](https://github.com/Dope0603)
 - [Mohammed Alharbi](https://github.com/M7med7)
 - [Rose](https://github.com/rooseasim)
