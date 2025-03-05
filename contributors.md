@@ -1,12 +1,13 @@
 ## Contributors
 
 - [Amjad Alqasemi](https://github.com/aqasemi)
+- [Jazzar](https://github.com/jaazzar)
 - [Abdoo Shareef](https://github.com/Dope0603)
 - [Mohammed Alharbi](https://github.com/M7med7)
 - [Rose](https://github.com/rooseasim)
 - [Lara Zahran](https://github.com/Larazah1)
 - [Yara Alzahrani](https://github.com/Yara-Alzahrani)
-- [Jazzar](https://github.com/jaazzar)
+- [Abdullah Sayrawan](https://github.com/Sayrawan)
 - [AB Misar](https://github.com/Abode1i)
 - [Abdoo Shareef](https://github.com/Dope0603)
 - [Ammar Yaser](https://github.com/)
