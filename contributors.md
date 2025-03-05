@@ -3,6 +3,8 @@
 - [rose](https://github.com/rooseasim)
 - [Amjad Alqasemi](https://github.com/aqasemi)
 - [Jazzar](https://github.com/jaazzar)
+- [Abdoo Shareef](https://github.com/Dope0603)
+- [Ammar Yaser](https://github.com/)
 - [muath almajnouni](https://github.com/mim3s)
 - [SultanAlthagafiTest](https://github.com/S-althagafi)
 - [AlbaraaX < >](https://github.com/TTTT9)
