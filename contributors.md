@@ -3,6 +3,7 @@
 - [rose](https://github.com/rooseasim)
 - [Amjad Alqasemi](https://github.com/aqasemi)
 - [Jazzar](https://github.com/jaazzar)
+- [muath almajnouni](https://github.com/mim3s)
 - [SultanAlthagafiTest](https://github.com/S-althagafi)
 - [AlbaraaX < >](https://github.com/TTTT9)
 - [Rayan Ghabashi :)][https://github.com/rayan-ghabashi]
